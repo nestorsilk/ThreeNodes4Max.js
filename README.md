@@ -1,7 +1,9 @@
-#ThreeNodes.js
+#ThreeNodes4Max.js
 <img src="http://github.com/nestorsilk/ThreeNodes4Max.js/raw/master/public/misc/ThreeNodes4Max.png" width="852" height="436" alt="screenshot version 0.1.0">
 
 ThreeNodes4Max is  collection of additional nodes to align ThreeNodes functionalities with Max/MSP. It's also incorporating some code to support OpenSoundControl.
+
+Max nodes inside ThreeNodes got additional functionalities. They can redraw themselves to address changes to the amount of their inputs and outputs. The are able to use drawings inside the node to represent their status and status changes. Nodes can also appear in free forms to add additional controls to the mix; e.g.: buttons, sliders, pads and many more.
 
 This is an attempt to make something like "vvvv" in javascript, html and webgl.
 
