@@ -1,5 +1,5 @@
 #ThreeNodes4Max.js
-<img src="http://github.com/nestorsilk/ThreeNodes4Max.js/raw/master/public/misc/ThreeNodes4Max.png" width="852" height="436" alt="screenshot version 0.1.0">
+<img src="http://github.com/nestorsilk/ThreeNodes4Max.js/raw/master/public/misc/ThreeNodes4Max.png" width="852" height="538" alt="screenshot version 0.1.0">
 
 ThreeNodes4Max is  collection of additional nodes to align ThreeNodes functionalities with Max/MSP. It's also incorporating some code to support OpenSoundControl.
 
