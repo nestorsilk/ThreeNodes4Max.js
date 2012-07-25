@@ -1,6 +1,8 @@
 #ThreeNodes.js
 <img src="http://github.com/nestorsilk/ThreeNodes4Max.js/raw/master/public/misc/ThreeNodes4Max.png" width="852" height="436" alt="screenshot version 0.1.0">
 
+ThreeNodes4Max is  collection of additional nodes to aligdn ThreeNodes functionalities with Max/MSP. It's also incorporating some code to support OpenSoundControl.
+
 This is an attempt to make something like "vvvv" in javascript, html and webgl.
 
 Live demo: http://idflood.github.com/ThreeNodes.js/
